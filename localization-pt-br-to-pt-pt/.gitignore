@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Build outputs
+/dist/
+/build/
+
+# Logs
+*.log
+
+# Backup files
+*_backup*
+*.backup

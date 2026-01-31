@@ -1,0 +1,53 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Build outputs
+/dist/
+/build/
+
+# Logs
+*.log
+
+# Data files - PROTECT PARTICIPANT DATA
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Large files
+*.mp3
+*.wav
+*.mp4
+*.mov
+
+# PDFs (manage separately)
+literature/sources/**/*.pdf
+
+# Reference manager databases
+*.sqlite
+
+# Word temporary files
+~$*.docx
+
+# R/Stats outputs
+*.Rhistory
+*.RData
+.Rproj.user/
+
+# NVivo files
+*.nvp
+*.nvpx
