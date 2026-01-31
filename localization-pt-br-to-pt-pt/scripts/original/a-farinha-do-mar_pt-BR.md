@@ -519,4 +519,3 @@ Brasileiros. Sobrevivemos a tudo. E vamos sobreviver a isso também.
 3. **Seu Manuel** fala com dialeto regional e melodia de pescador
 4. A intensidade escala ao longo do filme
 5. O contraste entre a calma de Seu Manuel e a agressividade de Carlos é essencial
-

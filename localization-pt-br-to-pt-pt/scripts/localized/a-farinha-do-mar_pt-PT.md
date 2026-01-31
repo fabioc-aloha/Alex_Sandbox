@@ -541,4 +541,3 @@ Portugueses. Sobrevivemos a tudo. E havemos de sobreviver a isto também.
 | Reformado | Aposentado |
 | Autocarro | Ônibus |
 | Passadeira | Faixa de pedestres |
-
