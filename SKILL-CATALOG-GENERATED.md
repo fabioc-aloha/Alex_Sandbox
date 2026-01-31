@@ -1,8 +1,8 @@
 # Alex Skills Catalog (Generated)
 
 > Generated: 2026-01-31
-> Total Skills: **38** (33 inheritable, 0 master-only, 2 VS Code, 2 M365, 1 temporary)
-> Total Connections: **149** (19 bidirectional, 49 weak)
+> Total Skills: **40** (35 inheritable, 0 master-only, 2 VS Code, 2 M365, 1 temporary)
+> Total Connections: **148** (20 bidirectional, 41 weak)
 
 ---
 
@@ -20,6 +20,8 @@ flowchart LR
         GD[graphic-design]
         L[localization]
         PM[project-management]
+        RP[release-process]
+        WLB[work-life-balance]
     end
     subgraph Cognitive["🧠 Cognitive"]
         AR[appropriate-reliance]
@@ -105,8 +107,8 @@ flowchart LR
     LP --> AR
     LCM <--> MM
     LCM --> WP
-    L <--> TS & VEP & WP & GD
-    L -.-> PM & CL & CR
+    L <--> TS & VEP & WP & GD & RP
+    L -.-> PM & CL & CR & AR
     MM --> WP & LCM
     MS <--> PRA
     MS -.-> CR
@@ -128,6 +130,7 @@ flowchart LR
     TS <--> DP
     TS --> RP & CR
     VE --> PS & VEP & GW & DP
+    WLB --> CL & AR & LP
     WP --> MM
     WP -.-> LCM & AR
 
@@ -141,7 +144,7 @@ flowchart LR
 
     class CPP,VEP vscode
     class MAD,TAP m365
-    class AR,AR,AA,AH,AAA,BL,BA,CM,CR,CL,CW,DP,ERP,GW,GD,IH,IR,LP,LCM,L,MM,MS,PRA,PM,PS,RP,RP,RCA,SCG,SG,TS,VE,WP inheritable
+    class AR,AR,AA,AH,AAA,BL,BA,CM,CR,CL,CW,DP,ERP,GW,GD,IH,IR,LP,LCM,L,MM,MS,PRA,PM,PS,RP,RP,RP,RCA,SCG,SG,TS,VE,WLB,WP inheritable
     class BT temp
     class CPP,GW,MAD,MS,PRA,TAP,VEP stale
 ```
@@ -168,42 +171,44 @@ flowchart LR
 
 ## Skills by Inheritance
 
-### 🧊 Inheritable (33)
+### 🧊 Inheritable (35)
 
 | Skill | Connections |
 | ----- | ----------- |
-| academic-research | 6 |
+| academic-research | 4 |
 | appropriate-reliance | 4 |
 | architecture-audit | 7 |
-| architecture-health | 3 |
+| architecture-health | 2 |
 | ascii-art-alignment | 3 |
-| bootstrap-learning | 4 |
+| bootstrap-learning | 3 |
 | business-analysis | 6 |
-| change-management | 7 |
+| change-management | 5 |
 | code-review | 3 |
 | cognitive-load | 3 |
-| creative-writing | 6 |
+| creative-writing | 4 |
 | debugging-patterns | 2 |
 | error-recovery-patterns | 3 |
 | git-workflow | 2 |
-| graphic-design | 7 |
+| graphic-design | 6 |
 | image-handling | 3 |
 | incident-response | 3 |
 | learning-psychology | 3 |
 | lint-clean-markdown | 3 |
-| localization | 8 |
+| localization | 10 |
 | markdown-mermaid | 2 |
 | microsoft-sfi | 4 |
 | privacy-responsible-ai | 3 |
-| project-management | 7 |
+| project-management | 6 |
 | project-scaffolding | 4 |
 | refactoring-patterns | 3 |
 | release-preflight | 5 |
+| release-process | 4 |
 | root-cause-analysis | 3 |
-| skill-catalog-generator | 5 |
+| skill-catalog-generator | 4 |
 | svg-graphics | 4 |
 | testing-strategies | 3 |
 | vscode-environment | 4 |
+| work-life-balance | 4 |
 | writing-publication | 3 |
 
 ### 🟨 Master-Only (0)

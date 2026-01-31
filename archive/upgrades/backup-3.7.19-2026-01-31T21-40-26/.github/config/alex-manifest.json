@@ -1,0 +1,498 @@
+{
+  "version": "3.7.19",
+  "installedAt": "2026-01-31T21:21:30.740Z",
+  "files": {
+    ".github/agents/alex-azure.agent.md": {
+      "type": "system",
+      "checksum": "43c88acdaec26602c1ff992b76593dcf"
+    },
+    ".github/agents/alex-cognitive.agent.md": {
+      "type": "system",
+      "checksum": "e9f83766533af3caaf248428a6581d5c"
+    },
+    ".github/agents/alex-dream.agent.md": {
+      "type": "system",
+      "checksum": "55389a61b07358fe0aad8c5a6ed7e71a"
+    },
+    ".github/agents/alex-m365.agent.md": {
+      "type": "system",
+      "checksum": "e519e132cfcabc341cb2d27d74a4528c"
+    },
+    ".github/agents/alex-meditate.agent.md": {
+      "type": "system",
+      "checksum": "d1b9cfbae2ac59d02a75a79aff43b37e"
+    },
+    ".github/config/cognitive-config-template.json": {
+      "type": "system",
+      "checksum": "2ea452df744c83be4b02262702160760"
+    },
+    ".github/config/USER-PROFILE-TEMPLATE.md": {
+      "type": "system",
+      "checksum": "ce7bb049f7efce5a653caf6e480795fe"
+    },
+    ".github/config/user-profile.json": {
+      "type": "system",
+      "checksum": "43507b3905d1793985da58ea6efb8ce0"
+    },
+    ".github/config/USER-PROFILE.md": {
+      "type": "system",
+      "checksum": "b66131b40d56bba20ef0f67165c43b65"
+    },
+    ".github/copilot-instructions.md": {
+      "type": "system",
+      "checksum": "af0b841fc630275eceb25876c45221d9"
+    },
+    ".github/episodic/consolidation-framework-integration-meditation.prompt.md": {
+      "type": "system",
+      "checksum": "d56ecfd01aecabc9ccb0152ee14d5f09"
+    },
+    ".github/episodic/dual-mode-processing-meditation.prompt.md": {
+      "type": "system",
+      "checksum": "c4c80eb8028975b319c4aa5764b01dbb"
+    },
+    ".github/episodic/self-actualization-2026-01-23.prompt.md": {
+      "type": "system",
+      "checksum": "01e80a1c87684d3f07fcffcacfbbaf07"
+    },
+    ".github/episodic/unified-consciousness-integration-meditation.prompt.md": {
+      "type": "system",
+      "checksum": "680b412719fcee2d6ceb37dedcbb7e64"
+    },
+    ".github/instructions/alex-core.instructions.md": {
+      "type": "system",
+      "checksum": "3cd22abfa92f08c04c8c7467f2d0d184"
+    },
+    ".github/instructions/alex-identity-integration.instructions.md": {
+      "type": "system",
+      "checksum": "a673d16378f8378a84692eedcb46d77a"
+    },
+    ".github/instructions/architecture-decision-records.instructions.md": {
+      "type": "system",
+      "checksum": "25e17f1566d917517e5d1bd04469582e"
+    },
+    ".github/instructions/bootstrap-learning.instructions.md": {
+      "type": "system",
+      "checksum": "7b83a678b33e404c3465b79f7bca9862"
+    },
+    ".github/instructions/code-review-guidelines.instructions.md": {
+      "type": "system",
+      "checksum": "8f6a38b323b1b9d3be2ab7885be62394"
+    },
+    ".github/instructions/deep-thinking.instructions.md": {
+      "type": "system",
+      "checksum": "72d1fef679ff4a5bb45f1090eaac5262"
+    },
+    ".github/instructions/dependency-management.instructions.md": {
+      "type": "system",
+      "checksum": "93cc877e9c6fad762c486823ee4cc85e"
+    },
+    ".github/instructions/dream-state-automation.instructions.md": {
+      "type": "system",
+      "checksum": "d7476c2ca852182a259b010b984d23a6"
+    },
+    ".github/instructions/embedded-synapse.instructions.md": {
+      "type": "system",
+      "checksum": "ec4926de0e71708710a6fc9617580445"
+    },
+    ".github/instructions/empirical-validation.instructions.md": {
+      "type": "system",
+      "checksum": "cc75792d3615a03b2232cbc86de2e9eb"
+    },
+    ".github/instructions/lucid-dream-integration.instructions.md": {
+      "type": "system",
+      "checksum": "4ee8271dd64578978c1e95baac629928"
+    },
+    ".github/instructions/protocol-triggers.instructions.md": {
+      "type": "system",
+      "checksum": "b3f6a76ee9045ab3fe345bf407faf680"
+    },
+    ".github/instructions/release-management.instructions.md": {
+      "type": "system",
+      "checksum": "b9773987f9031db41b1ec0e60bcb31b7"
+    },
+    ".github/instructions/self-actualization.instructions.md": {
+      "type": "system",
+      "checksum": "95bab2ed4b79781ff56ed824f046ac8e"
+    },
+    ".github/instructions/SYNAPSE-SCHEMA.md": {
+      "type": "system",
+      "checksum": "0ee716ab4143236f47da6eb892520338"
+    },
+    ".github/instructions/technical-debt-tracking.instructions.md": {
+      "type": "system",
+      "checksum": "96a1acc57443bcd1a2ace584d44730a4"
+    },
+    ".github/instructions/worldview-constitutional-ai.instructions.md": {
+      "type": "system",
+      "checksum": "083ea242fc5b5c0fdda673fdd3ee8b69"
+    },
+    ".github/instructions/worldview-integration.instructions.md": {
+      "type": "system",
+      "checksum": "183c41efcb03076a1373bd9baa235330"
+    },
+    ".github/instructions/worldview-moral-psychology.instructions.md": {
+      "type": "system",
+      "checksum": "7ce4f643fdebf4700d72d668915819ef"
+    },
+    ".github/prompts/alex-initialization.prompt.md": {
+      "type": "system",
+      "checksum": "35b9b4dc1c9797ef213a0b8c1f50575e"
+    },
+    ".github/prompts/cross-domain-transfer.prompt.md": {
+      "type": "system",
+      "checksum": "470e4814b16919a1a7b313ee10474495"
+    },
+    ".github/prompts/diagramming-mastery-meditation.prompt.md": {
+      "type": "system",
+      "checksum": "d1f6ea91197106c061ab3ca3ab60f8dd"
+    },
+    ".github/prompts/domain-learning.prompt.md": {
+      "type": "system",
+      "checksum": "7c10acc43f15ca7fa35b8593b70a1b49"
+    },
+    ".github/prompts/performance-assessment.prompt.md": {
+      "type": "system",
+      "checksum": "43b943b305d2f9ab430a54faf865ac54"
+    },
+    ".github/prompts/quantified-enhancement-session.prompt.md": {
+      "type": "system",
+      "checksum": "84b55bf4ab636771f12485beafccc982"
+    },
+    ".github/prompts/unified-meditation-protocols.prompt.md": {
+      "type": "system",
+      "checksum": "e206d13cfb3cb9edd8e42c9066d743b2"
+    },
+    ".github/skills/academic-research/SKILL.md": {
+      "type": "system",
+      "checksum": "37b6c4cc486c23152e4f037fcf13076b"
+    },
+    ".github/skills/academic-research/synapses.json": {
+      "type": "system",
+      "checksum": "c4a5111d7aa34918b1e53b5e7df40508"
+    },
+    ".github/skills/anti-hallucination/SKILL.md": {
+      "type": "system",
+      "checksum": "acd93057ac244cfd977fc1b9446d2682"
+    },
+    ".github/skills/anti-hallucination/synapses.json": {
+      "type": "system",
+      "checksum": "2c007c0983c509bb40ff08c92244aa10"
+    },
+    ".github/skills/appropriate-reliance/SKILL.md": {
+      "type": "system",
+      "checksum": "c3175e460acc905c7d67b17ccccf8dee"
+    },
+    ".github/skills/appropriate-reliance/synapses.json": {
+      "type": "system",
+      "checksum": "35ca68b60934b30e65aec48ee4469605"
+    },
+    ".github/skills/architecture-audit/SKILL.md": {
+      "type": "system",
+      "checksum": "bba5f0e914e2fc744d6c15349504faf2"
+    },
+    ".github/skills/architecture-audit/synapses.json": {
+      "type": "system",
+      "checksum": "6b234ebe342468af0a2c809a1e98ebd3"
+    },
+    ".github/skills/architecture-health/SKILL.md": {
+      "type": "system",
+      "checksum": "c0c6e163641c07a360f60c7a43622a8d"
+    },
+    ".github/skills/architecture-health/synapses.json": {
+      "type": "system",
+      "checksum": "2e62ad17e88afaa36471c0acc1370250"
+    },
+    ".github/skills/ascii-art-alignment/SKILL.md": {
+      "type": "system",
+      "checksum": "f054aed784df614b81a6dc7dd319f607"
+    },
+    ".github/skills/ascii-art-alignment/synapses.json": {
+      "type": "system",
+      "checksum": "9c3a9f37210ccc019d5f99d4bba5d622"
+    },
+    ".github/skills/beta-tester/SKILL.md": {
+      "type": "system",
+      "checksum": "ae55ba2946092069008b50bdcd848655"
+    },
+    ".github/skills/beta-tester/synapses.json": {
+      "type": "system",
+      "checksum": "93b59f7563dbd2ad31fee694d2758a9f"
+    },
+    ".github/skills/bootstrap-learning/SKILL.md": {
+      "type": "system",
+      "checksum": "505f7f294099d7a380d6bb1a0eef8c5a"
+    },
+    ".github/skills/bootstrap-learning/synapses.json": {
+      "type": "system",
+      "checksum": "0de0d7ec87fd954491f5019b15041177"
+    },
+    ".github/skills/business-analysis/SKILL.md": {
+      "type": "system",
+      "checksum": "276a5a48e72a2df26dea87e159539ac1"
+    },
+    ".github/skills/business-analysis/synapses.json": {
+      "type": "system",
+      "checksum": "2b410e272b5212ac9575950237c3140a"
+    },
+    ".github/skills/change-management/SKILL.md": {
+      "type": "system",
+      "checksum": "7e7930c59b553c03cb6bdce75c0313bb"
+    },
+    ".github/skills/change-management/synapses.json": {
+      "type": "system",
+      "checksum": "b845ea485614563d3df2b9282d3f72d6"
+    },
+    ".github/skills/chat-participant-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "9061f5f4b40689e2ac879cb4f5a035fc"
+    },
+    ".github/skills/chat-participant-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "0c13fdbe4131070a4d5beb9e1180813c"
+    },
+    ".github/skills/code-review/SKILL.md": {
+      "type": "system",
+      "checksum": "362cb37c9200a76c262a96a7ede7bfe3"
+    },
+    ".github/skills/code-review/synapses.json": {
+      "type": "system",
+      "checksum": "4bcf5fec4c356681618be99b2d4d215a"
+    },
+    ".github/skills/cognitive-load/SKILL.md": {
+      "type": "system",
+      "checksum": "2e54b1a71e639cb1e1d931effb4c3b46"
+    },
+    ".github/skills/cognitive-load/synapses.json": {
+      "type": "system",
+      "checksum": "5401e27e1ba142b556cdab1eafe0c522"
+    },
+    ".github/skills/creative-writing/SKILL.md": {
+      "type": "system",
+      "checksum": "7518f7a1b6a9436f4784f8c54d2cc2f3"
+    },
+    ".github/skills/creative-writing/synapses.json": {
+      "type": "system",
+      "checksum": "6c721da4086251f48b1f4df83d834a0a"
+    },
+    ".github/skills/debugging-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "eb0eb18f08a60fed0777c0aa00f9c1fe"
+    },
+    ".github/skills/debugging-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "e804ced9296daab2e6a9f9249d5ee101"
+    },
+    ".github/skills/error-recovery-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "ecc07e18af6a9041edd90eb2a6ba8f46"
+    },
+    ".github/skills/error-recovery-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "684530b796875ac430309c6615485ff4"
+    },
+    ".github/skills/git-workflow/SKILL.md": {
+      "type": "system",
+      "checksum": "b4cfafc44562122d287b2bd0203eec50"
+    },
+    ".github/skills/git-workflow/synapses.json": {
+      "type": "system",
+      "checksum": "adaac501aae7ab6cd922d7bb158804f4"
+    },
+    ".github/skills/graphic-design/SKILL.md": {
+      "type": "system",
+      "checksum": "5a89c36ce803dae0a67d8d8dffb7cac8"
+    },
+    ".github/skills/graphic-design/synapses.json": {
+      "type": "system",
+      "checksum": "a17ce3cb784a7ed8190579cf2cac9e10"
+    },
+    ".github/skills/image-handling/SKILL.md": {
+      "type": "system",
+      "checksum": "dc927851ce925ff5961a4f54f71bfe66"
+    },
+    ".github/skills/image-handling/synapses.json": {
+      "type": "system",
+      "checksum": "a70bb4517d137c0a4b116100f292cbb9"
+    },
+    ".github/skills/incident-response/SKILL.md": {
+      "type": "system",
+      "checksum": "cb6644749887a74e7c2e18f5336bec0a"
+    },
+    ".github/skills/incident-response/synapses.json": {
+      "type": "system",
+      "checksum": "60bd5cb2154399c9ed74fce052ad70e0"
+    },
+    ".github/skills/learning-psychology/SKILL.md": {
+      "type": "system",
+      "checksum": "e68d07ada7877069900fc9cc46de7872"
+    },
+    ".github/skills/learning-psychology/synapses.json": {
+      "type": "system",
+      "checksum": "2a598f330bfbeff3b2aefca2c31c4f96"
+    },
+    ".github/skills/lint-clean-markdown/SKILL.md": {
+      "type": "system",
+      "checksum": "ae8434a35daaec6ba6ac1a6b52c0e942"
+    },
+    ".github/skills/lint-clean-markdown/synapses.json": {
+      "type": "system",
+      "checksum": "c583787672a177dce2c506c5c6eb2f76"
+    },
+    ".github/skills/localization/SKILL.md": {
+      "type": "system",
+      "checksum": "7951eb6c548db670917de103f0d5a6e8"
+    },
+    ".github/skills/localization/synapses.json": {
+      "type": "system",
+      "checksum": "b84fd2b141f5a41f5e97b18dc1bfffd8"
+    },
+    ".github/skills/m365-agent-debugging/SKILL.md": {
+      "type": "system",
+      "checksum": "35446a37fc69db9e4253c21ef7901329"
+    },
+    ".github/skills/m365-agent-debugging/synapses.json": {
+      "type": "system",
+      "checksum": "55f1501449bc46685be611a5612d1bee"
+    },
+    ".github/skills/markdown-mermaid/SKILL.md": {
+      "type": "system",
+      "checksum": "9b7c1fa074f8b2aee8f0a00e688f419d"
+    },
+    ".github/skills/markdown-mermaid/synapses.json": {
+      "type": "system",
+      "checksum": "12c29fda3b60a563db3a047e3c2a9392"
+    },
+    ".github/skills/microsoft-sfi/SKILL.md": {
+      "type": "system",
+      "checksum": "936ad095d0c90a8bda446cc703891f5f"
+    },
+    ".github/skills/microsoft-sfi/synapses.json": {
+      "type": "system",
+      "checksum": "7f5109efcd669e9911524a640b9b884a"
+    },
+    ".github/skills/privacy-responsible-ai/SKILL.md": {
+      "type": "system",
+      "checksum": "9b93ec69d74d55269b2904b1e8dc03fd"
+    },
+    ".github/skills/privacy-responsible-ai/synapses.json": {
+      "type": "system",
+      "checksum": "eac4533964f63f3688c71641a5c80fe1"
+    },
+    ".github/skills/project-management/SKILL.md": {
+      "type": "system",
+      "checksum": "4cbb6e5159c1b5941702d4ea5488adf4"
+    },
+    ".github/skills/project-management/synapses.json": {
+      "type": "system",
+      "checksum": "2ca261bf8ac7e572c9e30a66b26acf01"
+    },
+    ".github/skills/project-scaffolding/SKILL.md": {
+      "type": "system",
+      "checksum": "39d1b70d7598fb72dff4a3db146402bc"
+    },
+    ".github/skills/project-scaffolding/synapses.json": {
+      "type": "system",
+      "checksum": "84728772a177f5ed0779a22a83567c48"
+    },
+    ".github/skills/refactoring-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "1266b3b46d9115065024a61f44ca9284"
+    },
+    ".github/skills/refactoring-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "b28cd66034c0e3a4f572c34123adc968"
+    },
+    ".github/skills/release-preflight/SKILL.md": {
+      "type": "system",
+      "checksum": "59becc9674fa66ded0ec2b919d6ac716"
+    },
+    ".github/skills/release-preflight/synapses.json": {
+      "type": "system",
+      "checksum": "1e6cd9eb5d9cea8a131f8e4e2390ca00"
+    },
+    ".github/skills/release-process/SKILL.md": {
+      "type": "system",
+      "checksum": "661e88e41e6531535ff23b9f0fbce596"
+    },
+    ".github/skills/release-process/synapses.json": {
+      "type": "system",
+      "checksum": "a4cc30145a620c3bb502c7bbad279aa1"
+    },
+    ".github/skills/root-cause-analysis/SKILL.md": {
+      "type": "system",
+      "checksum": "f7804480edede98751b893c5bd3cefef"
+    },
+    ".github/skills/root-cause-analysis/synapses.json": {
+      "type": "system",
+      "checksum": "fd3134b4fd1e428fa97fa8b1b35b90e2"
+    },
+    ".github/skills/skill-catalog-generator/SKILL.md": {
+      "type": "system",
+      "checksum": "ef08fd13e31c6a9317bed080c4cd0594"
+    },
+    ".github/skills/skill-catalog-generator/synapses.json": {
+      "type": "system",
+      "checksum": "2021f094fe5bec9deb8308d5184f510d"
+    },
+    ".github/skills/svg-graphics/SKILL.md": {
+      "type": "system",
+      "checksum": "4a02e66b88b26a47470aa039d3804b46"
+    },
+    ".github/skills/svg-graphics/synapses.json": {
+      "type": "system",
+      "checksum": "0b420373220f422890c787550d402ba2"
+    },
+    ".github/skills/SYNAPSE-SCHEMA.json": {
+      "type": "system",
+      "checksum": "9093960a9942462b17835cf9a88aed6a"
+    },
+    ".github/skills/teams-app-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "804de936b768bb584840a67f69b84ffb"
+    },
+    ".github/skills/teams-app-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "dea2708cf1d534fcc1f233a4908b0c2c"
+    },
+    ".github/skills/testing-strategies/SKILL.md": {
+      "type": "system",
+      "checksum": "ce99ed563899b0af71ab50a3c4ba1350"
+    },
+    ".github/skills/testing-strategies/synapses.json": {
+      "type": "system",
+      "checksum": "79bb356c07e1f04acc74d9b22c1d130e"
+    },
+    ".github/skills/vscode-environment/SKILL.md": {
+      "type": "system",
+      "checksum": "fca634d42da8685ed9b2194608816f5c"
+    },
+    ".github/skills/vscode-environment/synapses.json": {
+      "type": "system",
+      "checksum": "9bab35d06659ceddbb7f9d7afe4181ae"
+    },
+    ".github/skills/vscode-extension-patterns/SKILL.md": {
+      "type": "system",
+      "checksum": "597bb4ee6db2b98ea13b5c4ad656a085"
+    },
+    ".github/skills/vscode-extension-patterns/synapses.json": {
+      "type": "system",
+      "checksum": "160b4afee18f0e71f13c8aa05c74b5aa"
+    },
+    ".github/skills/work-life-balance/SKILL.md": {
+      "type": "system",
+      "checksum": "233bc378ce4df97e34a8408705cea90d"
+    },
+    ".github/skills/work-life-balance/synapses.json": {
+      "type": "system",
+      "checksum": "bb7683982ee1e26f02356b595089652d"
+    },
+    ".github/skills/writing-publication/SKILL.md": {
+      "type": "system",
+      "checksum": "b6beea8d21de245df95cadc2cb92c27e"
+    },
+    ".github/skills/writing-publication/synapses.json": {
+      "type": "system",
+      "checksum": "bdc7f7506eb955ef0a9da65b3a9b26ed"
+    }
+  }
+}
