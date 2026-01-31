@@ -3,8 +3,8 @@
 ## Ένα Ελληνικό Δράμα σε Τρεις Πράξεις
 ## A Greek Drama in Three Acts
 
-**Βασισμένο σε αληθινά γεγονότα - Νησί του Αιγαίου, 2001**
-**Based on real events - Aegean Island, 2001**
+**Βασισμένο σε αληθινά γεγονότα - Κάλυμνος, Δωδεκάνησα, 2001**
+**Based on real events - Kalymnos, Dodecanese, 2001**
 
 ---
 
@@ -29,8 +29,8 @@
 ## ΠΡΑΞΗ Α' - Η ΠΑΛΙΡΡΟΙΑ
 ## ACT I - THE TIDE
 
-### ΣΚΗΝΗ 1 - ΕΞΩΤΕΡΙΚΟ - ΒΟΡΕΙΑ ΑΚΤΗ ΤΟΥ ΝΗΣΙΟΥ - ΧΑΡΑΜΑΤΑ
-### SCENE 1 - EXTERIOR - NORTH COAST OF THE ISLAND - DAWN
+### ΣΚΗΝΗ 1 - ΕΞΩΤΕΡΙΚΟ - ΑΚΤΗ ΕΜΠΟΡΙΟΥ, ΚΑΛΥΜΝΟΣ - ΧΑΡΑΜΑΤΑ
+### SCENE 1 - EXTERIOR - EMPORIOS COAST, KALYMNOS - DAWN
 
 *Η πρωινή ομίχλη καλύπτει τα βράχια. Η θάλασσα αγριεμένη χτυπάει την ακτή. Ένα ταχύπλοο χαλασμένο παρασύρεται στα ανοιχτά.*
 *Morning mist covers the rocks. The rough sea crashes against the coast. A broken speedboat drifts in the distance.*
@@ -46,8 +46,8 @@
 
 ---
 
-### ΣΚΗΝΗ 2 - ΕΞΩΤΕΡΙΚΟ - ΠΑΡΑΛΙΑ ΤΟΥ ΧΩΡΙΟΥ - ΠΡΩΙ
-### SCENE 2 - EXTERIOR - VILLAGE BEACH - MORNING
+### ΣΚΗΝΗ 2 - ΕΞΩΤΕΡΙΚΟ - ΠΑΡΑΛΙΑ ΒΑΘΕΟΣ - ΠΡΩΙ
+### SCENE 2 - EXTERIOR - VATHY BEACH - MORNING
 
 *Λευκά δέματα αρχίζουν να ξεβράζονται. Οι πρώτοι χωριανοί πλησιάζουν, περίεργοι.*
 *White packages begin washing ashore. The first villagers approach, curious.*
@@ -752,11 +752,11 @@
 
 ---
 
-### ΣΚΗΝΗ 15 - ΕΞΩΤΕΡΙΚΟ - ΑΚΤΗ - ΗΛΙΟΒΑΣΙΛΕΜΑ
-### SCENE 15 - EXTERIOR - COAST - SUNSET
+### ΣΚΗΝΗ 15 - ΕΞΩΤΕΡΙΚΟ - ΑΚΤΗ ΕΜΠΟΡΙΟΥ - ΗΛΙΟΒΑΣΙΛΕΜΑ
+### SCENE 15 - EXTERIOR - EMPORIOS COAST - SUNSET
 
-*Ο Μπαρμπα-Μανώλης κάθεται στα βράχια, κοιτάζοντας τη θάλασσα. Ο Παπα-Δημήτρης πλησιάζει.*
-*Uncle Manolis sits on the rocks, watching the sea. Father Dimitris approaches.*
+*Ο Μπαρμπα-Μανώλης κάθεται στα βράχια κοντά στο σπηλαιοτέμπλο, κοιτάζοντας τη θάλασσα προς την Τουρκία. Ο Παπα-Δημήτρης πλησιάζει.*
+*Uncle Manolis sits on the rocks near the cave-church, watching the sea towards Turkey. Father Dimitris approaches.*
 
 **ΠΑΠΑ-ΔΗΜΗΤΡΗΣ**
 **FATHER DIMITRIS**
@@ -790,15 +790,15 @@
 ## ΕΠΙΛΟΓΟΣ - ΚΕΙΜΕΝΟ ΣΤΗΝ ΟΘΟΝΗ
 ## EPILOGUE - TEXT ON SCREEN
 
-*"Το 2001, ένα φορτίο κοκαΐνης ξεβράστηκε σε ένα νησί του Αιγαίου. Αρκετοί κάτοικοι κατανάλωσαν την ουσία, νομίζοντας πως ήταν αλεύρι. Η υπόθεση οδήγησε σε σημαντικές μεταρρυθμίσεις στην παράκτια επιτήρηση.*
+*"Το 2001, ένα φορτίο κοκαΐνης ξεβράστηκε στην Κάλυμνο, στα Δωδεκάνησα. Αρκετοί κάτοικοι κατανάλωσαν την ουσία, νομίζοντας πως ήταν αλεύρι. Η υπόθεση οδήγησε σε σημαντικές μεταρρυθμίσεις στην παράκτια επιτήρηση.*
 
-*Αυτή η ιστορία είναι μια δραματοποιημένη μυθοπλασία βασισμένη σε αναφορές της εποχής."*
+*Αυτή η ιστορία είναι μια δραματοποιημένη μυθοπλασία βασισμένη σε αναφορές της εποχής. Τα ονόματα και οι ακριβείς τοποθεσίες έχουν αλλάξει."*
 
 ---
 
-*"In 2001, a shipment of cocaine washed ashore on an Aegean island. Several residents consumed the substance, thinking it was flour. The case led to significant reforms in coastal surveillance.*
+*"In 2001, a shipment of cocaine washed ashore on Kalymnos, in the Dodecanese. Several residents consumed the substance, thinking it was flour. The case led to significant reforms in coastal surveillance.*
 
-*This story is a fictionalized dramatization based on reports from that era."*
+*This story is a fictionalized dramatization based on reports from that era. Names and exact locations have been changed."*
 
 ---
 
@@ -819,14 +819,16 @@
 
 ### Τοποθεσίες / Locations
 
-- Νησί του Αιγαίου (ανώνυμο για δραματικούς λόγους)
-- Παραδοσιακό ελληνικό χωριό
-- Ορθόδοξη εκκλησία
-- Παραδοσιακό καφενείο
-- Aegean island (anonymous for dramatic purposes)
-- Traditional Greek village
-- Orthodox church
-- Traditional kafeneio (café)
+- **Κάλυμνος, Δωδεκάνησα** - Το νησί των σφουγγαράδων
+- **Βαθύ** - Το κύριο χωριό με το καφενείο και την εκκλησία
+- **Ακτή Εμποριού** - Η βόρεια ακτή όπου ξεβράστηκε το φορτίο
+- **Ποθιά** - Η πρωτεύουσα του νησιού (σκηνές αστυνομίας)
+- Εκκλησία Αγίου Νικολάου - Προστάτης των ναυτικών
+- **Kalymnos, Dodecanese** - The island of sponge divers
+- **Vathy** - The main village with the kafeneio and church
+- **Emporios Coast** - The northern coast where the cargo washed ashore
+- **Pothia** - The island's capital (police scenes)
+- Church of Agios Nikolaos - Patron saint of sailors
 
 ### Μουσική / Music
 
@@ -875,8 +877,8 @@
    *Kostas should speak with strong Athenian accent*
 2. **Νίκος** έχει πιο ήπια προφορά
    *Nikos has milder accent*
-3. **Μπαρμπα-Μανώλης** μιλάει με νησιώτικη μελωδικότητα
-   *Uncle Manolis speaks with island melodiousness*
+3. **Μπαρμπα-Μανώλης** μιλάει με καλύμνια διάλεκτο και μελωδικότητα σφουγγαρά
+   *Uncle Manolis speaks with Kalymniot dialect and sponge-diver melodiousness*
 4. Η ένταση κλιμακώνεται σε όλη την ταινία
    *Intensity escalates throughout the film*
 5. Η αντίθεση μεταξύ της ηρεμίας του Μπαρμπα-Μανώλη και της επιθετικότητας του Κώστα είναι ουσιώδης
@@ -892,7 +894,7 @@
 | Maria das Dores | Κυρα-Μαρία / Mrs. Maria |
 | Carlos "O Brasileiro" | Κώστας "Ο Αθηναίος" / Kostas "The Athenian" |
 | Massa sovada, bolo lêvedo | Πίτες / Pies |
-| São Miguel, Açores | Νησί του Αιγαίου / Aegean Island |
+| São Miguel, Açores | Κάλυμνος, Δωδεκάνησα / Kalymnos, Dodecanese |
 | GNR | Ελληνική Αστυνομία / Greek Police |
 | 500 χρόνια / years | Χιλιάδες χρόνια / Thousands of years |
 | "Açorianos teimosos" | "Πεισματάρηδες Έλληνες" / "Stubborn Greeks" |
